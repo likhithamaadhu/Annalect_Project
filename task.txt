@@ -1,0 +1,5 @@
+git
+
+-- learnt git basics
+-- initializing and cloning the repo
+-- practiced the commands in the system using some dummy files
