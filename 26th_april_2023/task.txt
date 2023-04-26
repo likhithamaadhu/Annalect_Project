@@ -1,0 +1,3 @@
+--Integrated wsl with vscode
+--Read the product documentation -> list of how to's
+--Currently going through the code to understand structure
