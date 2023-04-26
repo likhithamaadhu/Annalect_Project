@@ -1,0 +1,9 @@
+git
+
+--went through git commands again and tried to upload some file into git repo
+--there is some authentication problem with git trying to solve it
+
+ORAD
+
+--cloned annalect_reportbuilder from bitbucket to local system
+
