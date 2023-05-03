@@ -1,0 +1,4 @@
+--learnt about wsgi
+--read about JSONencoder
+--learnt about logging
+

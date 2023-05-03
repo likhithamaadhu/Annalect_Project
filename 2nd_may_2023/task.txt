@@ -1,0 +1,4 @@
+went through following concepts:
+--blueprint
+--pagination
+--authentication
