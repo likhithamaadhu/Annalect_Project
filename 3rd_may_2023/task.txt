@@ -1,0 +1,3 @@
+--went through config.py
+--went through auth.py
+-- worked on psql and pgadmin
