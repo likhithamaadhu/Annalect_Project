@@ -1,4 +1,4 @@
-went through following concepts:
---blueprint
---pagination
---authentication
+Went through following concepts:
+--Blueprint
+--Pagination
+--Authentication
